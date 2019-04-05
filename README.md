@@ -1,6 +1,6 @@
 # RESTful Index Action Lab
 
-## Objectives
+## Objectives 
 
 1. Draw a get route
 2. Map a route to a controller action
